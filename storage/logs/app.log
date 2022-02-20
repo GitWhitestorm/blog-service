@@ -1,0 +1,74 @@
+2022/02/13 15:46:45 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"info","message":"whitestorm:test/blog-service","time":1644738405437633700}
+2022/02/13 16:51:28 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"info","message":"whitestorm:test/blog-service","time":1644742288433360500}
+2022/02/13 16:58:37 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"info","message":"whitestorm:test/blog-service","time":1644742717734907300}
+2022/02/13 17:01:51 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"info","message":"whitestorm:test/blog-service","time":1644742911808098000}
+2022/02/13 17:13:55 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"info","message":"whitestorm:test/blog-service","time":1644743635881646800}
+2022/02/13 17:16:16 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"info","message":"whitestorm:test/blog-service","time":1644743776616659200}
+2022/02/13 17:31:16 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"info","message":"whitestorm:test/blog-service","time":1644744676244828900}
+2022/02/14 10:43:29 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"info","message":"whitestorm:test/blog-service","time":1644806609274907900}
+2022/02/14 10:49:25 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs : State必须是[0 1]中的一个","time":1644806965518044900}
+2022/02/14 10:56:44 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"info","message":"whitestorm:test/blog-service","time":1644807404959900800}
+2022/02/14 14:47:23 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"info","message":"whitestorm:test/blog-service","time":1644821243803770700}
+2022/02/14 15:00:30 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"info","message":"whitestorm:test/blog-service","time":1644822030594243500}
+2022/02/14 15:01:27 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs : CreatedBy为必填字段","time":1644822087902224600}
+2022/02/14 15:01:37 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"error","message":"svc.CreateTag err: Error 1054: Unknown column 'create_by' in 'field list'","time":1644822097937155600}
+2022/02/14 15:06:05 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"error","message":"svc.CreateTag err: Error 1054: Unknown column 'create_by' in 'field list'","time":1644822365015963000}
+2022/02/14 15:06:35 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs : CreatedBy为必填字段","time":1644822395857860700}
+2022/02/14 15:11:05 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"info","message":"whitestorm:test/blog-service","time":1644822665524556900}
+2022/02/14 15:11:14 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs : CreatedBy为必填字段","time":1644822674666285100}
+2022/02/14 15:31:10 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"info","message":"whitestorm:test/blog-service","time":1644823870956868500}
+2022/02/14 15:31:23 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"debug","message":"测试：1644823883","time":1644823883468315100}
+2022/02/14 15:42:36 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"info","message":"whitestorm:test/blog-service","time":1644824556801680800}
+2022/02/14 15:43:19 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"debug","message":"测试：1644824599","time":1644824599860136400}
+2022/02/14 15:43:19 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"debug","message":"测试1：1644824599","time":1644824599861159500}
+2022/02/14 15:43:19 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"debug","message":"测试11：1644824599","time":1644824599861159500}
+2022/02/14 15:43:19 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"debug","message":"测试2：1644824599","time":1644824599861159500}
+2022/02/14 15:43:19 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"debug","message":"测试22：1644824599","time":1644824599861159500}
+2022/02/14 15:53:32 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"info","message":"whitestorm:test/blog-service","time":1644825212302947300}
+2022/02/14 15:53:40 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"debug","message":"测试：1644825220","time":1644825220430531800}
+2022/02/14 15:53:40 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"debug","message":"测试1：1644825220","time":1644825220430531800}
+2022/02/14 15:53:40 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"debug","message":"测试11：1644825220","time":1644825220430531800}
+2022/02/14 15:53:40 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"debug","message":"测试2：1644825220","time":1644825220430531800}
+2022/02/14 15:53:40 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"debug","message":"测试22：1644825220","time":1644825220430531800}
+2022/02/14 16:07:10 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"info","message":"whitestorm:test/blog-service","time":1644826030771132600}
+2022/02/14 16:12:28 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"info","message":"whitestorm:test/blog-service","time":1644826348743444100}
+2022/02/14 16:32:18 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"info","message":"whitestorm:test/blog-service","time":1644827538773244900}
+2022/02/14 16:50:29 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"info","message":"whitestorm:test/blog-service","time":1644828629613491900}
+2022/02/14 16:51:47 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs : ModifiedBy为必填字段","time":1644828707788895200}
+2022/02/14 16:52:08 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs : ModifiedBy为必填字段","time":1644828728003016200}
+2022/02/14 16:52:24 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs : ModifiedBy为必填字段","time":1644828744766416900}
+2022/02/14 16:52:33 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs : ModifiedBy长度必须至少为3个字符","time":1644828753492016900}
+2022/02/14 16:52:38 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"error","message":"svc.UpdateTag err: Error 1103: Incorrect table name ''","time":1644828758002800300}
+2022/02/14 17:05:17 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"error","message":"svc.UpdateTag err: Error 1103: Incorrect table name ''","time":1644829517813312000}
+2022/02/14 17:06:53 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs : ModifiedBy为必填字段","time":1644829613008655800}
+2022/02/14 17:07:16 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs : ModifiedBy为必填字段","time":1644829636704598200}
+2022/02/14 17:07:32 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs : ModifiedBy为必填字段","time":1644829652345018800}
+2022/02/14 17:11:29 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"error","message":"svc.UpdateTag err: Error 1103: Incorrect table name ''","time":1644829889552976400}
+2022/02/14 17:24:42 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"info","message":"whitestorm:test/blog-service","time":1644830682765889100}
+2022/02/14 17:25:00 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"error","message":"svc.UpdateTag err: Error 1103: Incorrect table name ''","time":1644830700414303700}
+2022/02/14 17:28:36 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"info","message":"whitestorm:test/blog-service","time":1644830916223243400}
+2022/02/14 17:39:53 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"info","message":"whitestorm:test/blog-service","time":1644831593456896900}
+2022/02/14 17:41:53 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid errs : CreatedBy为必填字段","time":1644831713092431800}
+2022/02/15 14:15:57 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"info","message":"whitestorm:test/blog-service","time":1644905757861861100}
+2022/02/15 14:22:05 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"error","message":"svc.UploadFile err :failed to create save directory.","time":1644906125070908000}
+2022/02/15 14:42:22 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"info","message":"whitestorm:test/blog-service","time":1644907342987165100}
+2022/02/15 16:59:49 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"info","message":"whitestorm:test/blog-service","time":1644915589936451300}
+2022/02/15 17:02:20 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.GenerateToken err: key is of invalid type","time":1644915740845664600}
+2022/02/15 17:09:13 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.BindAndValid err AppSecret为必填字段","time":1644916153076992100}
+2022/02/15 17:14:32 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.GenerateToken err: key is of invalid type","time":1644916472149277700}
+2022/02/15 17:15:12 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"info","message":"whitestorm:test/blog-service","time":1644916512074186000}
+2022/02/15 17:15:17 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.GenerateToken err: key is of invalid type","time":1644916517773454500}
+2022/02/15 17:23:29 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"info","message":"whitestorm:test/blog-service","time":1644917009920252900}
+2022/02/15 17:23:38 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.GenerateToken err: key is of invalid type","time":1644917018945954600}
+2022/02/15 17:23:40 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.GenerateToken err: key is of invalid type","time":1644917020245415000}
+2022/02/15 17:23:40 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.GenerateToken err: key is of invalid type","time":1644917020940149600}
+2022/02/15 17:24:04 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"info","message":"whitestorm:test/blog-service","time":1644917044798255300}
+2022/02/15 17:24:11 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.GenerateToken err: key is of invalid type","time":1644917051039386900}
+2022/02/15 17:24:12 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.GenerateToken err: key is of invalid type","time":1644917052049509100}
+2022/02/15 17:24:15 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"error","message":"svc.CheckAuth err : auth info does not exist","time":1644917055801152600}
+2022/02/15 17:28:26 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"info","message":"whitestorm:test/blog-service","time":1644917306622955800}
+2022/02/15 17:28:33 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"error","message":"svc.CheckAuth err : auth info does not exist","time":1644917313623399600}
+2022/02/15 17:28:38 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"error","message":"app.GenerateToken err: key is of invalid type","time":1644917318137349000}
+2022/02/15 17:29:19 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"info","message":"whitestorm:test/blog-service","time":1644917359716790500}
+2022/02/15 17:32:54 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"info","message":"whitestorm:test/blog-service","time":1644917574643964000}
+2022/02/15 17:48:34 {"callers":["E:/whitestorm/go/src/blog-service/main.go:26 main.init.0"],"level":"info","message":"whitestorm:test/blog-service","time":1644918514609223000}
